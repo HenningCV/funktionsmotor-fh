@@ -66,7 +66,7 @@ Projekt auf dem Raspberry herunterladen<br>
 <code>git clone https://github.com/HenningCV/funktionsmotor-fh.git</code>
 
 In das Projektverzeichnis wechseln<br>
-<code>cd funktionsmotor/</code>
+<code>cd funktionsmotor-fh/</code>
 
 Python packages installieren<br>
 <code>sudo -H pip install -r requirements.txt</code>
